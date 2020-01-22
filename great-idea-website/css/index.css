@@ -64,3 +64,10 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+.navigation .header-image {
+	display: inline;
+}
+
+a {
+	padding: 70px;
+}
